@@ -116,6 +116,20 @@
   "VendorTag": "com.oplus.feature.sticker.support",
   "Type": "Byte",
   "Count": "1",
+  "Value": "1"
+},
+
+{
+  "VendorTag": "com.oplus.app.feature.sticker.support",
+  "Type": "Byte",
+  "Count": "1",
+  "Value": "0"
+},
+
+{
+  "VendorTag": "com.oplus.high.resolution.support",
+  "Type": "Byte",
+  "Count": "1",
   "Value": "0"
 },
 
@@ -859,13 +873,6 @@
   "Type": "Int32",
   "Count": "1",
   "Value": "80"
-},
-
-{
-  "VendorTag": "com.oplus.app.feature.sticker.support",
-  "Type": "Byte",
-  "Count": "1",
-  "Value": "0"
 },
 
 {
